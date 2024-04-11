@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notey/static/css/main.43d0f6fb.css",
+    "main.js": "/notey/static/js/main.d89e1239.js",
+    "static/media/topography.svg": "/notey/static/media/topography.06d48cdbd8a867bb5de10cd87c28f5f3.svg",
+    "static/media/i-like-food.svg": "/notey/static/media/i-like-food.75839842bc7ef7abfb39ad447116702c.svg",
+    "static/media/tic-tac-toe.svg": "/notey/static/media/tic-tac-toe.fc5efad7fcabd625c91ea31ea217176e.svg",
+    "static/media/close-ellipse-svgrepo-com.svg": "/notey/static/media/close-ellipse-svgrepo-com.11729d6b01b3fcc8fb4df8ad429f94b6.svg",
+    "static/media/note-medical-svgrepo-com.svg": "/notey/static/media/note-medical-svgrepo-com.2040106ee422133526a6d1872bf18b1f.svg",
+    "static/media/edit-4-svgrepo-com.svg": "/notey/static/media/edit-4-svgrepo-com.99a75ad3d5f2c5f1812b5470d25d86e4.svg",
+    "static/media/add-to-svgrepo-com.svg": "/notey/static/media/add-to-svgrepo-com.327a71165d60022f12929c69999009ee.svg",
+    "index.html": "/notey/index.html",
+    "static/media/overlapping-circles.svg": "/notey/static/media/overlapping-circles.568325d24bebace913ffd9d564075a90.svg",
+    "static/media/remove-svgrepo-com.svg": "/notey/static/media/remove-svgrepo-com.b16fe04c49f177f5d440adbebfcea5cf.svg",
+    "main.43d0f6fb.css.map": "/notey/static/css/main.43d0f6fb.css.map",
+    "main.d89e1239.js.map": "/notey/static/js/main.d89e1239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d0f6fb.css",
+    "static/js/main.d89e1239.js"
+  ]
+}
