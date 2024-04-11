@@ -1,0 +1,81 @@
+.wrapper{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    z-index: 10;
+}
+.labels{
+    font-weight: 500;
+}
+
+.input-form{
+    position: relative;
+    height: 500px;
+    width: 550px;
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    
+}
+.close-form{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.note-input-title,.note-input-Content{
+    font-family: inherit;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+.note-input-title{
+    width: 40%;
+    height: 3rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+.note-input-Content{
+    height: 9rem;
+    border-radius: 0.5rem;
+    font-size: 16px;
+}
+ul {
+    list-style: none;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+ul li label {
+    padding-inline: 0.5rem;
+}
+.note-color {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  .note-color::-webkit-color-swatch {
+    border-radius: 0.5rem;
+    border: none;
+  }
+  .note-color::-moz-color-swatch {
+    border-radius: 0.5rem;
+    border: none;
+  }
+.add-note{
+    width: 60px;
+    height: 60px;
+    justify-self: center;
+    align-self: center;
+}
