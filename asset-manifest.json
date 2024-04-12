@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/notey/static/css/main.43d0f6fb.css",
-    "main.js": "/notey/static/js/main.d89e1239.js",
+    "main.js": "/notey/static/js/main.1ff68a94.js",
     "static/media/topography.svg": "/notey/static/media/topography.06d48cdbd8a867bb5de10cd87c28f5f3.svg",
     "static/media/i-like-food.svg": "/notey/static/media/i-like-food.75839842bc7ef7abfb39ad447116702c.svg",
     "static/media/tic-tac-toe.svg": "/notey/static/media/tic-tac-toe.fc5efad7fcabd625c91ea31ea217176e.svg",
@@ -13,10 +13,10 @@
     "static/media/overlapping-circles.svg": "/notey/static/media/overlapping-circles.568325d24bebace913ffd9d564075a90.svg",
     "static/media/remove-svgrepo-com.svg": "/notey/static/media/remove-svgrepo-com.b16fe04c49f177f5d440adbebfcea5cf.svg",
     "main.43d0f6fb.css.map": "/notey/static/css/main.43d0f6fb.css.map",
-    "main.d89e1239.js.map": "/notey/static/js/main.d89e1239.js.map"
+    "main.1ff68a94.js.map": "/notey/static/js/main.1ff68a94.js.map"
   },
   "entrypoints": [
     "static/css/main.43d0f6fb.css",
-    "static/js/main.d89e1239.js"
+    "static/js/main.1ff68a94.js"
   ]
 }
